@@ -1,0 +1,25 @@
+{
+  "name": "Flux-Node",
+  "version": "0.1.1",
+  "description": "A distributed, event driven framework.",
+  "homepage": "https://github.com/chromecide/Flux-Node",
+  "keywords": [
+    "FluxNode",
+    "events",
+    "event-driven",
+    "framework"
+  ],
+  "author": {
+    "name": "Justin Pradier",
+    "email": "chromecide@chromecide.com",
+    "url": "http://chromecide.com/"
+  },
+  "dependencies": {
+  	"git://github.com/chromecide/node-mediainfo.git":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromecide/Flux-Node.git"
+  },
+  "main": "FluxNode.js"
+}
