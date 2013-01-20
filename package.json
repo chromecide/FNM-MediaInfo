@@ -1,13 +1,13 @@
 {
-  "name": "Flux-Node",
+  "name": "FNM-MediaInfo",
   "version": "0.1.1",
-  "description": "A distributed, event driven framework.",
-  "homepage": "https://github.com/chromecide/Flux-Node",
+  "description": "W mixin wrapper for the media info nodejs module",
+  "homepage": "https://github.com/chromecide/FNM-MediaInfo",
   "keywords": [
     "FluxNode",
-    "events",
-    "event-driven",
-    "framework"
+    "mixin",
+    "media",
+    "mediainfo"
   ],
   "author": {
     "name": "Justin Pradier",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chromecide/Flux-Node.git"
+    "url": "https://github.com/chromecide/FNM-MediaInfo.git"
   },
-  "main": "FluxNode.js"
+  "main": "index.js"
 }
