@@ -15,7 +15,7 @@
     "url": "http://chromecide.com/"
   },
   "dependencies": {
-  	"git://github.com/chromecide/node-mediainfo.git":""
+  	"node-mediainfo": "git://github.com/chromecide/node-mediainfo.git"
   },
   "repository": {
     "type": "git",
